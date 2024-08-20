@@ -53,7 +53,7 @@ This section should
 
 Example:
 
-[Add in example]
+> [Add in example]
 
 ### Objectives section
 
@@ -73,12 +73,12 @@ This section should
 
 Example
 
-Objectives
-
-The objectives of this Australian Government Architecture (AGA) content are to:
-
-- Ensure application solutions across Government are implemented to an appropriately secure standard relevant to their risk of security compromise.
-- Ensure that application solutions across government meet the contractual and policy obligations for security in applications.
+> Objectives
+> 
+> The objectives of this Australian Government Architecture (AGA) content are to:
+> 
+> - Ensure application solutions across Government are implemented to an appropriately secure standard relevant to their risk of security compromise.
+> - Ensure that application solutions across government meet the contractual and policy obligations for security in applications.
 
 ### Whole of Government Applicability section
 
@@ -120,20 +120,20 @@ Policies should have a policy outline which briefly describe the content of the 
 A section explaining the circumstances under which the policy applies.
 
 Example 1:  
-Applicability
-
-Unless formally excepted, the Benefits Management Policy applies where digital and ICT investment: 
-
-- is brought forward by a non-corporate Commonwealth entity and, where specifically requested by the Minister responsible for the Digital Transformation Agency, a Corporate Commonwealth entity
-- involves digital or ICT costs
-- is being brought forward for government consideration as a new policy proposal.
+> Applicability
+> 
+> Unless formally excepted, the Benefits Management Policy applies where digital and ICT investment: 
+> 
+> - is brought forward by a non-corporate Commonwealth entity and, where specifically requested by the Minister responsible for the Digital Transformation Agency, a Corporate Commonwealth entity
+> - involves digital or ICT costs
+> - is being brought forward for government consideration as a new policy proposal.
 
 Example 2:  
-Applicability
-
-The Digital Inclusion Standard is being introduced with a transitional approach.
-
-The Standard is mandatory for non-corporate Commonwealth entities and applies to new public and staff facing services from 01 January 2025 and existing public facing services from 01 July 2026.
+> Applicability
+> 
+> The Digital Inclusion Standard is being introduced with a transitional approach.
+> 
+> The Standard is mandatory for non-corporate Commonwealth entities and applies to new public and staff facing services from 01 January 2025 and existing public facing services from 01 July 2026.
 
 #### Rules for policy applicability
 
@@ -179,7 +179,7 @@ The Policy Requirements section contains an explanation of the obligations on co
 - Be around 25 words maximum in length overall, and never more than 50 words in length.
 - Use a heading sentence if any of the requirements in the list is longer than two sentences. The heading should be:
    - a short sentence of about 6 words
-   - formatted in bold (using <strong> semantic markup in html)
+   - formatted in bold (using \<strong> semantic markup in html)
    - have one or two subsequent sentences which succinctly explain the requirement.
 
 Where a policy requirement is a direct translation of an obligation imposed by an existing instrument (such as a Whole of Government Policy or piece of legislation):
@@ -214,11 +214,11 @@ As the first part of the page the standard introduction does not need its own he
 
 The Applicability section sits within the introduction, without a heading. It is always the last part of the introduction. It is distinct in that it contains paragraphs with a consistent structure, such as the example below:
 
-Example:
-
-The [Name of Standard] is being introduced with a transitional approach. It applies to new public and staff facing services from 01 January 2025 and existing public facing services from 01 July 2026.
-
-The Standard is mandatory for non-corporate Commonwealth entities.
+> Example:
+> 
+> The [Name of Standard] is being introduced with a transitional approach. It applies to new public and staff facing services from 01 January 2025 and existing public facing services from 01 July 2026.
+> 
+> The Standard is mandatory for non-corporate Commonwealth entities.
 
 ### Access the standard
 
